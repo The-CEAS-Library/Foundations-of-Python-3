@@ -19,4 +19,4 @@ Building on topics of the "Introduction to Python" workshop. Basic knowledge of 
 * **Helpful hints & resources**
 
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ken7gh/Intermediate-Python.git/master)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ken7gh/Intermediate_Python.git/master)
