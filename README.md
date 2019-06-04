@@ -1,9 +1,9 @@
-# Intermediate-Python
+# Intermediate_Python
 Second workshop in a series of four workshops. 
 
 Building on topics of the "Introduction to Python" workshop. Basic knowledge of Python or attendance at the "Introduction to Python" beginner's workshop is strongly recommended.  
 
-### Intermediate-Python
+### Intermediate Python
 
 * **IPython, Anaconda distribution & Jupyter Notebook**
 * **Hands-on**
