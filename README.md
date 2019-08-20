@@ -11,6 +11,7 @@ Building on topics of the "Introduction to Python" Part 1 & 2 workshops. Basic k
   * Modules & Imports
   * Packages & Libraries
   * File I/O
+  * IPython, Jupyther Notebook and Anaconda Distribution
 
 * **Future Topics**<br>
 
