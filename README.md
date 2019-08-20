@@ -1,5 +1,5 @@
 # Intermediate_Python
-Second workshop in a series of five Python workshops. 
+Third workshop in a series of five Python workshops. 
 
 Building on topics of the "Introduction to Python" Part 1 & 2 workshops. Basic knowledge of Python or attendance at the "Introduction to Python" beginner's workshops is strongly recommended.  
 
