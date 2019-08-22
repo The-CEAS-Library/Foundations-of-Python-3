@@ -18,4 +18,4 @@ Building on topics of the "Introduction to Python" Part 1 & 2 workshops. Basic k
 * **Helpful hints & resources**
 
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ken7gh/Intermediate_Python.git/master)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/CEASLIBRARY/Intermediate_Python.git/master)
