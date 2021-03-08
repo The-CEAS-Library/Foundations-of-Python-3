@@ -1,7 +1,7 @@
 # Intermediate_Python
 Third workshop in a series of five Python workshops. 
 
-Note: Please click **'launch binder'** button, present at the bottom of the page, to launch the Binder.
+**Note**: Please click **'launch binder'** button, present at the bottom of the page, to launch the Binder.
 
 Building on topics of the "Introduction to Python" Part 1 & 2 workshops. Basic knowledge of Python or attendance at the "Introduction to Python" beginner's workshops is strongly recommended.  
 
