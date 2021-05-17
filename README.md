@@ -5,13 +5,11 @@ Building on topics of the "Introduction to Python" Part 1 & 2 workshops. Basic k
 
 ### Intermediate Python
 
-* **IPython, Anaconda distribution & Jupyter Notebook**
 * **Hands-on**
   * Classes/Objects
   * Modules & Imports
   * Packages & Libraries
   * File I/O
-  * IPython, Jupyther Notebook and Anaconda Distribution
 
 * **Future Topics**<br>
 
