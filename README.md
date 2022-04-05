@@ -20,4 +20,4 @@ Building on topics of the "Introduction to Python" Part 1 & 2 workshops. Basic k
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/CEASLIBRARY/Intermediate_Python.git/master)
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CEASLIBRARY/colabtools/Intermediate_Python/blob)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/googlecolab/colabtools/blob/master)
