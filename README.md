@@ -1,9 +1,10 @@
-# Intermediate_Python
+# Foundations of Python 3
+
 Third workshop in a series of five Python workshops. 
 
 Building on topics of the "Introduction to Python" Part 1 & 2 workshops. Basic knowledge of Python or attendance at the "Introduction to Python" beginner's workshops is strongly recommended.  
 
-### Intermediate Python
+### Foundations of Python 3
 
 * **Hands-on**
   * Classes/Objects
@@ -19,6 +20,6 @@ Building on topics of the "Introduction to Python" Part 1 & 2 workshops. Basic k
 Please click **'Open in Colab'** button below to launch the notebook in Google Colab for an interactive environment in the web browser. 
 
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/The-CEAS-Library/Intermediate_Python.git/master)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/The-CEAS-Library/Foundations-of-Python-3.git/master)
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/The-CEAS-Library/Intermediate_Python)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/The-CEAS-Library/Foundations-of-Python-3)
