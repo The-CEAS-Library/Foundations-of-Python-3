@@ -1,8 +1,6 @@
 # Foundations of Python 3
 
-Third workshop in a series of five Python workshops. 
-
-Building on topics of the "Introduction to Python" Part 1 & 2 workshops. Basic knowledge of Python or attendance at the "Introduction to Python" beginner's workshops is strongly recommended.  
+Building on topics of the "Foundations of Python" 1 & 2 workshops. Basic knowledge of Python or attendance at the "Foundation of Python 1" beginner's workshops is strongly recommended.  
 
 ### Foundations of Python 3
 
