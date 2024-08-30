@@ -1,4 +1,4 @@
-# Fuction to get the first name, last name and year of birth of a person
+# Function to get the first name, last name, and year of birth of a person
 def demographics():
     first_name = '' # Replace this line with the right code to take input for user's first name
     
@@ -57,7 +57,7 @@ class Student:
 
 
 
-    # Metod to return student UC six plus two
+    # Method to return student UC six plus two
     def student_id(self):
-        # Call apprrioprate fuction above to return the UC 6+2
+        # Call appropriate function above to return the UC 6+2
         return
