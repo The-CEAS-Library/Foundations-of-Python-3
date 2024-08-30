@@ -1,11 +1,11 @@
-# Fuction to get the first anme, last name and year of birth of a person
+# Function to get the first name, last name, and year of birth of a person
 def demographics():
     first_name = input('What is your First Name: ')
     last_name = input('What is your Last Name: ')
     year_of_birth = input('What is your Year of Birth: ')
     return [first_name, last_name, year_of_birth]
 
-# Fuction to return he six plus two    
+# Function to return he six plus two    
 def uc_6_2(first_name, last_name):
     if (len(last_name)>=6):
         sixplus2 = last_name[0:6] + first_name[0] + first_name[-1]
